@@ -40,7 +40,7 @@ This lab demonstrates basic Linux commands on an AWS EC2 instance.
 
 ### Current Directory
 
-![pwd](images/pwd.png)
+![pwd](images/Screenshot(158).png)
 
 ### List Files
 
