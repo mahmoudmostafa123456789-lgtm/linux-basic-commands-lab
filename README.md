@@ -39,6 +39,7 @@ This lab demonstrates basic Linux commands on an AWS EC2 instance.
 ## Screenshots
 
 ![Linux Lab](images/Screenshot%20(158).png)
+![Linux Lab](images/Screenshot%20(159).png)
 ## Skills Learned
 
 - Linux File System
