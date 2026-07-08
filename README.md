@@ -38,40 +38,7 @@ This lab demonstrates basic Linux commands on an AWS EC2 instance.
 
 ## Screenshots
 
-### Current Directory
-
-![pwd](images/Screenshot(158).png)
-
-### List Files
-
-![ls](images/ls.png)
-
-### Create Directory
-
-![mkdir](images/mkdir.png)
-
-### Create File
-
-![touch](images/touch.png)
-
-### View File
-
-![cat](images/cat.png)
-
-### Copy File
-
-![cp](images/cp.png)
-
-### Rename File
-
-![mv](images/mv.png)
-
-### Delete File
-
-![rm](images/rm.png)
-
----
-
+![Linux Lab](images/Screenshot%20(158).png)
 ## Skills Learned
 
 - Linux File System
